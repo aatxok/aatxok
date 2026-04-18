@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Adela Tatum</h1>
-<h3 align="center">A passionate Web Content Operations Specialist/Dev transitioning into the world of Data Engineering</h3>
+# Hi 👋, I'm Adela Tatum
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addy-luna&label=Profile%20views&color=0e75b6&style=flat" alt="aatxok" /> </p>
+### A passionate Web Content Operations Specialist/Dev transitioning into the world of Data Engineering
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy-luna&theme=chalk&column=3&margin-w=15&margin-h=15" alt="aatxok" /></a></p>
-
-currently:
+**Currently**:
 - 👾 BS Applied Data Analytics with a concentration in Software Development in Python
 - 🎨 100days of code: The Complete Python Pro Bootcamp with Dr.Angela Yu | Udemy
 - 🏆 2026 Data Analysis and Visualization Masterclass with Colt Steele | Udemy 
-- 🌱 I’m currently learning - **Python, SQL, PANDAS**
+- 🌱 I'm currently learning **Python, SQL, PANDAS**
 
-- 📫 How to reach me - **cloudcoded.exe@gmail.com**
+👯 I'm looking to collaborate on **open source projects**
 
-- 📄 Know about my experiences - [View my resume](https://drive.google.com/file/d/1DjjmcF__ipCtXPsPbr6r_O_DSivqiKL1/view)
+💬 Ask me about **Python, Data Science, Web Development, and coffee! **
 
-- ⚡ Fun fact - **I love anime, reading new books, and I am a total foodie!**
+📫 How to reach me **cloudcoded.exe@gmail.com**
+
+⚡ Fun fact **I love anime, reading new books, and I am a total foodie!**
+
+📄 Know about my experiences **[https://drive.google.com/file/d/1DjjmcF__ipCtXPsPbr6r_O_DSivqiKL1/view](https://drive.google.com/file/d/1DjjmcF__ipCtXPsPbr6r_O_DSivqiKL1/view)**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adela-tatum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adela-tatum/" height="30" width="40" /></a>
+</p>
+
