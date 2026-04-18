@@ -1,8 +1,10 @@
 <p align="center">
-<img height="250" width="370" src="https://64.media.tumblr.com/37d3b84ad03b0e5415e2fc3afcba69fb/tumblr_o7x6lzsdq71so9b4uo1_500.gif">
+<img height="250" width="370" src="https://media1.tenor.com/m/AOdIxLQUvVcAAAAd/pink-aesthetic.gif">
 </p>
 
-# Hi 👋, I'm Adela Tatum
+<h1 align="center">
+Hi there, I'm Adela Tatum!
+</h1>
 
 ### A passionate Web Content Operations Specialist/Dev transitioning into the world of Data Engineering
 
