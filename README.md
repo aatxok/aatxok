@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adela Tatum</h1>
-<h3 align="center">A passionate Web Developer and Web Content Operations Specialist transitioning into the world of Data Engineering</h3>
+<h3 align="center">A passionate Web Content Operations Specialist/Dev transitioning into the world of Data Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy-luna&label=Profile%20views&color=0e75b6&style=flat" alt="aatxok" /> </p>
 
