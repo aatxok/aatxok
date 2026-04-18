@@ -5,12 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addy-luna&theme=chalk&column=3&margin-w=15&margin-h=15" alt="aatxok" /></a></p>
 
-- 🔭 I’m currently working on:
-  - 
-  - 
-
-- 👾 I’m currently working with - **Python**
-
+currently:
+- 👾 BS Applied Data Analytics with a concentration in Software Development in Python
+- 🎨 100days of code: The Complete Python Pro Bootcamp with Dr.Angela Yu | Udemy
+- 🏆 2026 Data Analysis and Visualization Masterclass with Colt Steele | Udemy 
 - 🌱 I’m currently learning - **Python, SQL, PANDAS**
 
 - 📫 How to reach me - **cloudcoded.exe@gmail.com**
