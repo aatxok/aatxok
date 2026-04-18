@@ -16,7 +16,7 @@
 
 ⚡ Fun fact **I love anime, reading new books, and I am a total foodie!**
 
-📄 Know about my experiences **[https://drive.google.com/file/d/1DjjmcF__ipCtXPsPbr6r_O_DSivqiKL1/view](https://drive.google.com/file/d/1DjjmcF__ipCtXPsPbr6r_O_DSivqiKL1/view)**
+📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1DjjmcF__ipCtXPsPbr6r_O_DSivqiKL1/view)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
