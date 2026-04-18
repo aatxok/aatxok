@@ -22,8 +22,6 @@ Hi there, I'm Adela Tatum!
 
 ⚡ Fun fact **I love anime, reading new books, and I am a total foodie!**
 
-📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1DjjmcF__ipCtXPsPbr6r_O_DSivqiKL1/view)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adela-tatum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adela-tatum/" height="30" width="40" /></a>
