@@ -16,7 +16,7 @@ Hi there, I'm Adela Tatum!
 
 👯 I'm looking to collaborate on **open source projects**
 
-💬 Ask me about **Python, Data Science, Web Development, and coffee! **
+💬 Ask me about **Python, Data Science, Web Development, and coffee!**
 
 📫 How to reach me **cloudcoded.exe@gmail.com**
 
